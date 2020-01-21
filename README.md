@@ -5,7 +5,7 @@ A simple FiveM script that will help you roleplay.
 * /me = Shows a text over your head saying what you are doing. Example: Unlocks door
 * /showid = Shows Your id. Example: /showid Greg Gregson 
 
-###How to install
+##How to install
 
     Download capus-rp-chat;
     Drag and drop it in your FiveM servers resources folder;
