@@ -7,8 +7,8 @@ A simple FiveM script that will help you roleplay.
 
 ### How to install
 
-    Download capus-rp-chat;
-    Drag and drop it in your FiveM servers resources folder;
+    Download capus-rp-chat
+    Drag and drop it in your FiveM servers resources folder
     Add start capus-rp-chat to you server.cfg.
 
 
