@@ -12,9 +12,10 @@ A simple FiveM script that will help you roleplay.
     Add start capus-rp-chat to you server.cfg.
 
 
-Credits:
+### Credits
 
-Showid: https://forum.cfx.re/t/help-show-id-script-showid/40094/2
-/me: https://forum.cfx.re/t/help-show-id-script-showid/40094/2
+* Showid: https://forum.cfx.re/t/help-show-id-script-showid/40094/2
+* /me: https://forum.cfx.re/t/help-show-id-script-showid/40094/2
+
 Big shoutout to these guys :)
 
