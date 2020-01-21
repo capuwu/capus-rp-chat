@@ -3,11 +3,12 @@ A simple FiveM script that will help you roleplay.
 
 Commands: /me /showid
 
-How to install?
-Download capus-rp-chat
-Place capus-rp-chat in resource folder.
-Add star capus-rp-chat in server.cfg
-Done.
+How to install
+
+    Download capus-rp-chat;
+    Drag and drop it in your FiveM servers resources folder;
+    Add start capus-rp-chat to you server.cfg.
+
 
 Credits:
 
