@@ -2,8 +2,8 @@
 A simple FiveM script that will help you roleplay.
 
 ## Commands
-* /me
-* /showid
+* /me = Shows a text over your head saying what you are doing. Example: Unlocks door
+* /showid = Shows Your id. Example: /showid Greg Gregson 
 
 How to install
 
