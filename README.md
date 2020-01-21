@@ -1,7 +1,9 @@
 # capus-rp-chat
 A simple FiveM script that will help you roleplay.
 
-Commands: /me /showid
+## Commands
+* /me
+* /showid
 
 How to install
 
